@@ -52,6 +52,14 @@ grid-area: 2/1/7/6;
     margin-top: 10px;
 }
 
+.img5{
+    grid-area: 2/5/3/6;
+}
+
+.img6{
+    grid-area: 7/1/7/1;
+}
+
 
 .forma3{
     border-radius: 20px;
@@ -164,9 +172,10 @@ grid-area: 2/1/7/6;
     font-family: Gilroy, sans-serif;
     text-align: left;
     width: 300px;
+    margin: 15px;
 }
 
-#contact{
+#contact1{
     font-family: Gilroy, sans-serif;
     font-size: 20px;
     font-weight:200;
@@ -186,4 +195,13 @@ grid-area: 2/1/7/6;
     margin-top: 20px;
     font-family: Gilroy, sans-serif;
     text-transform: uppercase;
+}
+
+.info_sofa{
+    margin-top: 210px;
+    margin-left: 30px;
+}
+
+.linha{
+    width: 335px;
 }
