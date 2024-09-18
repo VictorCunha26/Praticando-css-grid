@@ -31,7 +31,7 @@ grid-area: 2/1/7/6;
 
 .forma3{
     border-radius: 20px;
-    grid-area: 2/9/8/13;  
+    grid-area: 2/9/9/13;  
 }
 
 .forma4{
@@ -46,7 +46,76 @@ grid-area: 2/1/7/6;
 }
 
 .forma6{
-    grid-area: 8/9/10/13;
+    grid-area: 9/9/10/13;
     border-radius: 20px;
      
+}
+
+#julia{
+    grid-area: 1/1/1/3;
+    font-family: Gilroy, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 3000;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-left: 30px;
+    padding-right: 0px;
+}
+#huang {
+    grid-area: 1/1/1/3;
+    font-family: Gilroy, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-left: 90px;
+}
+#projects{
+    grid-area: 1/10/1/11;
+    font-family: Gilroy, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-top: 10px;
+    text-align: center;
+}
+#about{
+    grid-area: 1/11/1/12;
+    font-family: Gilroy, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-top: 10px;
+    text-align: center;
+}
+#contact{
+    grid-area: 1/12/1/13;
+    font-family: Gilroy, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#artist{
+    margin-top: 100px;
+    font-family: Gilroy, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+}
+#arqui{
+    font-family: Gilroy, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 50px;
+    text-align: left;
 }
