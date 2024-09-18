@@ -36,15 +36,17 @@ grid-area: 2/1/7/6;
 
 .forma4{
     grid-area: 7/1/10/5;
-    border-radius: 20px;
+    border-radius: 20px; 
 }
 
 .forma5{
     grid-area: 7/5/10/9;
     border-radius: 20px;
+     
 }
 
 .forma6{
     grid-area: 8/9/10/13;
-    border-radius: 20px;  
+    border-radius: 20px;
+     
 }
